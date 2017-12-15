@@ -1,6 +1,6 @@
- # UE4 Project directories to ignore
- /Binaries/
- /DerivedDataCache/
- /Intermediate/
- /Saved/
- /Build/
+# UE4 Project directories to ignore
+unwinged/Binaries/
+unwinged/DerivedDataCache/
+unwinged/Intermediate/
+unwinged/Saved/
+unwinged/Build/
